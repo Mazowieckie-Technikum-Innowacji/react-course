@@ -1,1 +1,1 @@
-# react-course
+# React Course
